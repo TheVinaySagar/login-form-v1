@@ -43,14 +43,7 @@ cd login-form-v1
 npm install
 ```
 
-3. Create a `.env` file in the root directory:
-```env
-PORT=5000
-MONGODB_URI=mongodb://localhost:27017/loginApp
-JWT_SECRET=your_jwt_secret
-```
-
-## Project Structure
+## Main Project Structure
 
 ```
 ├── config/
