@@ -2,6 +2,9 @@
 
 A secure user authentication system built with Node.js, Express, and MongoDB. The system provides user registration and login functionality with JWT (JSON Web Token) authentication.
 
+https://github.com/user-attachments/assets/e3f7b167-f1fd-4090-88f8-bc4a3a90d8f0
+
+
 ## Features
 
 - 🔐 User registration with password hashing
@@ -166,7 +169,4 @@ For support, please open an issue in the GitHub repository or contact the mainta
 - Built with [Express.js](https://expressjs.com/)
 - Database by [MongoDB](https://www.mongodb.com/)
 - Authentication using [JWT](https://jwt.io/)
-
-
-https://github.com/user-attachments/assets/e3f7b167-f1fd-4090-88f8-bc4a3a90d8f0
 
